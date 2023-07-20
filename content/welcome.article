@@ -35,7 +35,7 @@ Edita el programa y ejecútalo nuevamente.
 Cuando haces clic en [[javascript:highlightAndClick("#format")][Format]]
 (atajo: `Ctrl` + `Enter`), el siguiente texto en el editor es formateado usando la herramienta
 [[https://golang.org/cmd/gofmt/][gofmt]]. Puedes activar y desactivar el resalto de sintaxis haciendo clic
-en el botón[[javascript:highlightAndClick(".syntax-checkbox")][syntax]].
+en el botón [[javascript:highlightAndClick(".syntax-checkbox")][syntax]].
 
 Cuando estés listo para avanzar, haz clic en la [[javascript:highlightAndClick(".next-page")][flecha derecha]] abajo o presiona la tecla `PageDown`.
 
