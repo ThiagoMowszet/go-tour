@@ -1,5 +1,5 @@
 Bienvenido!
-Aprende cómo usar este tour: incluyendo cómo navegar entre las diferentes lecciones y cómo ejecutar el codigo.
+Aprende cómo usar este tour: incluyendo cómo navegar entre las difentes lecciones y cómo ejecutar el código.
 
 Los autores de Go
 https://golang.org
@@ -14,7 +14,7 @@ acceder haciendo clic en
 
 También puedes ver la tabla de contenidos cuando quieras, haciendo clic en el [[javascript:highlightAndClick(".nav")][menú]] en la esquina superior derecha.
 
-A lo largo del tour, encontrarás una serie de diapositivas y ejercicios para que puedas completarlos
+A lo largo del tour, encontrarás una serie de diapositivas y ejercicios para que puedas completarlos.
 
 Puedes navegar a través de ellos usando
 
@@ -28,7 +28,7 @@ El tour es interactivo. Haz clic en el botón
 en tu computadora.
 El resultado se visualiza debajo del código.
 
-Este programa de ejemplo demuestra diferentes aspectos de Go. Los programas en el tour están destinados a ser puntos de partida para su propia experiencia.
+Este programa de ejemplo demuestra diferentes aspectos de Go. Los programas en el tour están destinados a ser puntos de partida para tu propia experiencia.
 
 Edita el programa y ejecútalo nuevamente.
 
@@ -70,14 +70,14 @@ Haz clic en el botón [[javascript:highlightAndClick(".next-page")]["next"]] o p
 #appengine:
 #appengine: go install golang.org/x/website/tour@latest
 #appengine:
-#appengine: Esto colocará el binario `tour` en tu directorio `bin` de su
+#appengine: Esto colocará el binario `tour` en tu directorio `bin` de tu
 #appengine: [[https://golang.org/doc/code.html#Workspaces][GOPATH]].
 #appengine: Cuando ejecutes el programa, abrirá tu navegador mostrando
 #appengine: la versión local del tour.
 #appengine:
 #appengine: Por supuesto, puedes continuar haciendo el tour a través de este sitio web.
 
-#appengine: * El patio de recreos de Go
+#appengine: * Go Playground
 #appengine:
 #appengine: Este tour esta construido sobre [[https://play.golang.org/][Go Playground]], 
 #appengine: un servicio web que se ejecuta en los servidores de [[https://golang.org/][golang.org]].
@@ -85,21 +85,21 @@ Haz clic en el botón [[javascript:highlightAndClick(".next-page")]["next"]] o p
 #appengine: El servicio recibe un programa Go, compila, vincula y ejecuta el programa dentro
 #appengine: de una zona de pruebas,luego devuelve la salida.
 #appengine:
-#appengine: Hay limitaciones para los programas que pueden ser ejecutados dentro del patio de recreos de Go:
+#appengine: Hay limitaciones para los programas que pueden ser ejecutados dentro de Go Playground:
 #appengine:
-#appengine: - En el patio de recreos, el tiempo empieza en el 2009-11-10 23:00:00 UTC (determinar el significado de esta fecha es un ejercicio para el lector). Esto facilita el almacenamiento en caché de los programas al proporcionarles una salida determinista.
+#appengine: - En el Playground, el tiempo empieza en el 2009-11-10 23:00:00 UTC (determinar el significado de esta fecha es un ejercicio para el lector). Esto facilita el almacenamiento en caché de los programas al proporcionarles una salida determinista.            - En el patio de recreos, el tiempo empieza en el 2009-11-10 23:00:00 UTC (determinar el significado de esta fecha es un ejercicio para el lector). Esto facilita el almacenamiento en caché de los programas al proporcionarles una salida determinista. 
 #appengine:
-#appengine: - También hay limitaciones en el tiempo de ejecución y en el uso de CPU y memoria, y el programa no puede acceder a hosts de red externos.
+#appengine: - También hay limitaciones en el tiempo de ejecución, el uso de CPU y memoria, y el programa no puede acceder a hosts de red externos.
 #appengine:
 #appengine: El patio de recreos utiliza la última version estable de Go.
 #appengine:
-#appengine: Lee "[[https://blog.golang.org/playground][Dentro del parque de recreos de Go]]" para aprender más.
+#appengine: Lee "[[https://blog.golang.org/playground][Inside the Go Playground]]" para aprender más.
 #appengine:
 #appengine: .play welcome/sandbox.go
 
 * Felicitaciones
 
-Has finalizado el primer módulo del tour!
+¡Has finalizado el primer módulo del tour!
 
 Ahora haz clic en [[javascript:highlightAndClick(".logo")][Un tour por Go]] para descubrir qué mas
-puedes aprender acerca de Go, o directamente avanza a la [[javascript:clic('.next-page')][próxima lección]].
+puedes aprender acerca de Go, o directamente avanza a la [[javascript:click('.next-page')][próxima lección]].
