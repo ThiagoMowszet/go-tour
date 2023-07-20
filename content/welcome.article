@@ -8,7 +8,7 @@ https://golang.org
 
 Bienvenido a un recorrido por el [[https://golang.org/][lenguaje de programación Go]].
 
-El tour está dividio en una lista de módulos al que puedes
+El tour está dividido en una lista de módulos al que puedes
 acceder haciendo clic en
 [[javascript:highlight(".logo")][El tour de Go]] en la esquina superior izquierda de la página.
 
@@ -21,7 +21,7 @@ Puedes navegar a través de ellos usando
 - [[javascript:highlight(".prev-page")]["antes"]] o `PageUp` para ir a la página anterior,
 - [[javascript:highlight(".next-page")]["siguiente"]] o `PageDown` para ir a la siguiente pagina.
 
-El tour es interactivo. Haz clic el botón
+El tour es interactivo. Haz clic en el botón
 [[javascript:highlightAndClick("#run")][Run]]
 (o presiona `Shift` + `Enter`) para compilar y ejecutar el programa
 #appengine: a remote server.
@@ -87,9 +87,9 @@ Haz clic en el botón [[javascript:highlightAndClick(".next-page")]["next"]] o p
 #appengine:
 #appengine: Hay limitaciones para los programas que pueden ser ejecutados dentro del patio de recreos de Go:
 #appengine:
-#appengine: - En el patio de recreos, el tiempo empieza en el 2009-11-10 23:00:00 UTC (determinar el significado de esta fecha es un ejercicio para el lector). Esto facilita el almacenamiento en caché de los programas al proporcionarles una salida determinista.            - En el patio de recreos, el tiempo empieza en el 2009-11-10 23:00:00 UTC (determinar el significado de esta fecha es un ejercicio para el lector). Esto facilita el almacenamiento en caché de los programas al proporcionarles una salida determinista. 
+#appengine: - En el patio de recreos, el tiempo empieza en el 2009-11-10 23:00:00 UTC (determinar el significado de esta fecha es un ejercicio para el lector). Esto facilita el almacenamiento en caché de los programas al proporcionarles una salida determinista.
 #appengine:
-#appengine: - También hay limitaciones en el tiempo de ejecución y en el uso de CPU y memoria, y el programa no puede acceder a hosts de red externosa.
+#appengine: - También hay limitaciones en el tiempo de ejecución y en el uso de CPU y memoria, y el programa no puede acceder a hosts de red externos.
 #appengine:
 #appengine: El patio de recreos utiliza la última version estable de Go.
 #appengine:
